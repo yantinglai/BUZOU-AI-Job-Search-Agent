@@ -1,0 +1,22 @@
+# ---- secrets / env ----
+.env
+*.env
+gmail_credentials.json
+gmail_token.json
+
+# ---- python ----
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# ---- playwright / browser profiles / artifacts ----
+chrome_profile/
+chrome_profile_auto/
+outputs/
+
+# ---- misc ----
+.DS_Store
