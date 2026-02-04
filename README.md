@@ -3,9 +3,10 @@
 # buzou.com — AI Job Agent
 
 I got laid off by Amazon, and the irony is I still have to rely on the same internal systems to find my next role.
+Since this is the hunger game mode, we gotta take some hunger game attitude :)
 
-**buzou.com** is a small protest and a survival tool:  
-I’m not leaving quietly — but I’m also not wasting time.
+**buzou.com** is a survival tool for laid-offers:  
+I’m not leaving quietly — but I’m also not wasting time clicking application manually.
 
 ## What it does (today)
 
